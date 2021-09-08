@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/TopShelfLearners/static/css/main.6fa73f57.chunk.css",
+    "main.js": "/TopShelfLearners/static/js/main.70a760a1.chunk.js",
+    "main.js.map": "/TopShelfLearners/static/js/main.70a760a1.chunk.js.map",
+    "runtime-main.js": "/TopShelfLearners/static/js/runtime-main.0f2486c3.js",
+    "runtime-main.js.map": "/TopShelfLearners/static/js/runtime-main.0f2486c3.js.map",
+    "static/js/2.9df3dd29.chunk.js": "/TopShelfLearners/static/js/2.9df3dd29.chunk.js",
+    "static/js/2.9df3dd29.chunk.js.map": "/TopShelfLearners/static/js/2.9df3dd29.chunk.js.map",
+    "static/js/3.6c3f08a2.chunk.js": "/TopShelfLearners/static/js/3.6c3f08a2.chunk.js",
+    "static/js/3.6c3f08a2.chunk.js.map": "/TopShelfLearners/static/js/3.6c3f08a2.chunk.js.map",
+    "index.html": "/TopShelfLearners/index.html",
+    "static/css/main.6fa73f57.chunk.css.map": "/TopShelfLearners/static/css/main.6fa73f57.chunk.css.map",
+    "static/js/2.9df3dd29.chunk.js.LICENSE.txt": "/TopShelfLearners/static/js/2.9df3dd29.chunk.js.LICENSE.txt",
+    "static/media/AhmadProfile.db641a77.png": "/TopShelfLearners/static/media/AhmadProfile.db641a77.png",
+    "static/media/App.7914e9e2.jpg": "/TopShelfLearners/static/media/App.7914e9e2.jpg",
+    "static/media/ContentWriting.7b7f7118.jpg": "/TopShelfLearners/static/media/ContentWriting.7b7f7118.jpg",
+    "static/media/DigitalMarketing.86f72fe6.jpg": "/TopShelfLearners/static/media/DigitalMarketing.86f72fe6.jpg",
+    "static/media/ForexTrading.510a50d4.jpg": "/TopShelfLearners/static/media/ForexTrading.510a50d4.jpg",
+    "static/media/GraphicDesign.13969011.jpg": "/TopShelfLearners/static/media/GraphicDesign.13969011.jpg",
+    "static/media/Home.css": "/TopShelfLearners/static/media/Hero-img.39a1b25b.jpg",
+    "static/media/Photography.f72a9fe1.jpg": "/TopShelfLearners/static/media/Photography.f72a9fe1.jpg",
+    "static/media/StoryTelling.6c98cf45.jpg": "/TopShelfLearners/static/media/StoryTelling.6c98cf45.jpg",
+    "static/media/VideoEditing.031fd4c4.jpg": "/TopShelfLearners/static/media/VideoEditing.031fd4c4.jpg",
+    "static/media/WordPress.3e4e65cc.jpg": "/TopShelfLearners/static/media/WordPress.3e4e65cc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f2486c3.js",
+    "static/js/2.9df3dd29.chunk.js",
+    "static/css/main.6fa73f57.chunk.css",
+    "static/js/main.70a760a1.chunk.js"
+  ]
+}
