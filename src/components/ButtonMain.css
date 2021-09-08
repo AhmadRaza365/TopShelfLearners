@@ -1,0 +1,14 @@
+.ButtonMainText{
+    background-color: #917898;
+    color: #2E1A1E;
+    border: none;
+    border-radius: 10px;
+    padding: 1vw 2vw;
+    margin-top: 5%;
+}
+
+.ButtonMainText:hover{
+    border: 1px solid #2E1A1E;
+    background-color: #D5DDEF;
+    text-decoration: dashed;
+}

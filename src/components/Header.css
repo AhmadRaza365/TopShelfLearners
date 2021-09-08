@@ -1,0 +1,35 @@
+
+.header{
+    background-color: #2E1A1E;
+    color: #BCB8CE;
+}
+
+.logo{
+    color: #BCB8CE;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-weight: 400;
+    font-size: xx-large;
+}
+
+.nav-item{
+    color: #BCB8CE;
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+}
+
+#navbarSupportedContent{
+    margin-left: 25vw;
+}
+
+.btn-main{
+    font-family: 'Roboto', sans-serif;
+    background-color: #BCB8CE;
+    color: #2E1A1E;
+    border-radius: 10px;
+    margin-right: 2%;
+}
+.btn-main:hover{
+    border: 2px solid #BCB8CE;
+    background-color: #2E1A1E;
+    color: #BCB8CE;
+}

@@ -1,0 +1,40 @@
+.card{
+    width: 25vw;
+    background-color: #917898;
+    margin: auto;
+    margin-top: 2vw;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body h5{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #2E1A1E;
+}
+
+.card-body p{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #2E1A1E;
+}
+
+.cardbutton{
+    font-family: 'Roboto', sans-serif;
+    background-color: #2E1A1E;
+    color: #BCB8CE;
+}
+.cardbutton:hover{
+    background-color: #917898;
+    border: 2px solid #2E1A1E;
+    color: #2E1A1E;
+}
+
+@media (max-width: 767px ){
+    .card{
+        width: 80vw;
+    }
+}

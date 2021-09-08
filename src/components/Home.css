@@ -1,0 +1,55 @@
+.hero{
+    background: url('./Assets/Hero-img.jpg');
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 40vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    text-align: center;
+    color: #BCB8CE;
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+}
+
+.carousel-indicators{
+    left:0;
+    top: auto;
+    bottom: -70px;
+
+}
+
+.carousel-inner{
+    display: flex;
+    margin: auto;
+}
+
+.single-box{
+    display: flex;
+    justify-content: center;
+}
+
+
+.carousel-indicators [data-bs-target] {
+    background-color: #2E1A1E;
+}
+
+.buttonbar{
+    margin-top: 10vh;
+    display: flex;
+    justify-content: center;
+}
+
+.qoute{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 5vw;
+text-align: center;
+margin-top: 10vh;
+}

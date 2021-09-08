@@ -1,0 +1,20 @@
+.CatagoryList ul{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    list-style: none;
+
+}
+.CatagoryList li{
+    margin: 1vw;
+    font-size: 2vw;
+    color: #BCB8CE;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.CatagoryList a{
+    color:#2E1A1E;
+    ;
+    
+}

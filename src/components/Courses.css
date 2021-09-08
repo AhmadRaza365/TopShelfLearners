@@ -1,0 +1,15 @@
+.courses-page{
+    display: grid;
+   
+    grid-template-columns: 30% 30% 30%;
+    justify-content: center;    
+}
+
+@media (max-width: 767px) {
+    .courses-page{
+        display: grid;
+       
+        grid-template-columns: 100%;
+        justify-content: center;    
+    }
+}

@@ -1,0 +1,40 @@
+.textbar{
+    margin-top: 2vw;
+    color: #2E1A1E;
+    background-color: #917898;
+    text-align: center;
+    font-size: 4vw;
+    font-family: 'Roboto', sans-serif;
+}
+.about-text{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    align-items: center;
+}
+
+.about-text div{
+    font-size: 2vw;
+    font-family: 'Roboto', sans-serif;
+    color: #2E1A1E;
+    padding: 2vw;
+    text-align: left;
+}
+
+.about-text  img{
+    width: 30vw;
+    margin: auto;
+}
+
+
+@media (max-width: 500px) {
+    .about-text{
+        display: grid;
+        grid-template-columns: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .about-text  img{
+        width: 60vw;
+     }
+}

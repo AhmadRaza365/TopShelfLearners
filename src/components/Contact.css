@@ -1,0 +1,20 @@
+.Contact-text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    color: #2E1A1E;
+    text-align: center;
+    margin: 3vw;
+}
+
+
+.social-icons{
+
+    display: flex;
+    justify-content: center;
+}
+
+.social-icons img{
+    width: 5vw;
+    margin: 1vw;
+
+}

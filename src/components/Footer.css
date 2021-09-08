@@ -1,0 +1,80 @@
+footer{
+    margin-top: 3vw;
+}
+
+.TopSection{
+    background-color: #917898;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.footerlogo{
+    color: #2E1A1E;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-weight: 400;
+    font-size: 5vw;
+    text-align: center;
+}
+
+.footermenu{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-menu-course-list{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.footer-menu-course-list h3{
+    text-align: center;
+}
+
+.footer-menu-course-list-menu {
+    display: flex;
+    justify-content: center;
+}
+
+footer ul{
+    margin: 0 2vw;
+    text-align: center;
+}
+
+.outerul{
+    margin-top: 4vw;
+}
+.outerul a{
+    color: #2E1A1E;
+    text-decoration: none;
+}
+.footer-menu-course-list a{
+    color: #2E1A1E;
+    text-decoration: none;
+}
+.BottomSection{
+    background-color: #2E1A1E;
+    padding: 1vw;
+}
+.copyright{
+    color: #917898;
+    text-align: center;
+    font-size: 2vw;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+@media (max-width: 737px) {
+    .footermenu{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .outerul{
+        text-align: center;
+    }
+    .copyright{
+        font-size: 4vw;
+    }
+}
