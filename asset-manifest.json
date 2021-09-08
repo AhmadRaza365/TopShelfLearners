@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TopShelfLearners/static/css/main.6fa73f57.chunk.css",
-    "main.js": "/TopShelfLearners/static/js/main.70a760a1.chunk.js",
-    "main.js.map": "/TopShelfLearners/static/js/main.70a760a1.chunk.js.map",
+    "main.js": "/TopShelfLearners/static/js/main.dd5ec9c0.chunk.js",
+    "main.js.map": "/TopShelfLearners/static/js/main.dd5ec9c0.chunk.js.map",
     "runtime-main.js": "/TopShelfLearners/static/js/runtime-main.0f2486c3.js",
     "runtime-main.js.map": "/TopShelfLearners/static/js/runtime-main.0f2486c3.js.map",
     "static/js/2.9df3dd29.chunk.js": "/TopShelfLearners/static/js/2.9df3dd29.chunk.js",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.0f2486c3.js",
     "static/js/2.9df3dd29.chunk.js",
     "static/css/main.6fa73f57.chunk.css",
-    "static/js/main.70a760a1.chunk.js"
+    "static/js/main.dd5ec9c0.chunk.js"
   ]
 }
