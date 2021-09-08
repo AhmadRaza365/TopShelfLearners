@@ -26,7 +26,7 @@ function App() {
     <Header />
         <Switch>
 
-          <Route exact path ="/">
+          <Route exact path ="/TopShelfLearners">
             <Home />
           </Route>
 

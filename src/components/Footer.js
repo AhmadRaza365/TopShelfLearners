@@ -12,7 +12,7 @@ export default function Footer() {
 
                 <div className="footermenu">
                 <ul className="outerul">
-                <Link to="/">  <h6>Home</h6> </Link>
+                <Link to="/TopShelfLearners">  <h6>Home</h6> </Link>
                 <Link to="/about"><h6>About Us</h6> </Link>
                 <Link to="/contact"><h6>Contact Us</h6> </Link>
                 <Link to="/courses" ><h6>Privacy Policy</h6> </Link>
@@ -41,9 +41,9 @@ export default function Footer() {
                 </div>
 
                 <ul className="outerul">
-                   <Link to="/"> <h5>Become a Student</h5> </Link>
-                   <Link to="/"> <h5>Become a Teacher</h5> </Link>
-                   <Link to="/"> <h5>Become an Affliate</h5> </Link>
+                   <Link to="/TopShelfLearners"> <h5>Become a Student</h5> </Link>
+                   <Link to="/TopShelfLearners"> <h5>Become a Teacher</h5> </Link>
+                   <Link to="/TopShelfLearners"> <h5>Become an Affliate</h5> </Link>
                 </ul>
 
                 </div>
